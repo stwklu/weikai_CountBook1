@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weikai_CountBook</string>
+
+    <string name="title1"> New Counter Name:</string>
+    <string name="title2">Initial count</string>
+    <string name="title">weikai CountBook</string>
+    <string name="Add">Add</string>
+    <string name="initial"> Initial Value</string>
+</resources>
