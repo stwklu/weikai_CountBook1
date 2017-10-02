@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/weikailu/Documents/github/weikai_CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/weikailu/Documents/github/weikai_CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8434ae95b8b1674caa3886cffddb50ac80c90b3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/weikailu/Documents/github/weikai_CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6aab9a52e3e1dcd30f14a13415c0f0f766122a00">
+        <dex dex="/Users/weikailu/Documents/github/weikai_CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1bab0a21ef4f06242e8d9fd5f46eb268dd4a457c/classes.dex" />
+    </item>
+
+</items>
